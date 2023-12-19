@@ -1,0 +1,33 @@
+
+body {
+    padding: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.name {
+    display: flex;
+}
+table {
+    border: 1px solid;
+}
+td {
+    padding: 10px;
+    border: 1px solid;
+}
+.class {
+    text-decoration: underline;
+}
+.space {
+    padding: 0 30px;
+}
+.red {
+    font-weight:bold;
+}
+.N {
+    color: red;
+}
+.flex {
+    display:flex;
+}
+.left {
+    padding-left: 600px;
+}
